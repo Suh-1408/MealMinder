@@ -1,7 +1,3 @@
-Here's a README for your "MealMinder" project:
-
----
-
 # MealMinder
 
 MealMinder is a web application designed to help users log and track their daily food intake. The application allows users to add new food items, view a detailed nutritional breakdown of their daily intake, and organize records by date.
@@ -84,3 +80,5 @@ Ensure you have the following installed:
 - `migrations/`: Database migration files.
 - `venv/`: Virtual environment.
 - `requirements.txt`: Python dependencies.
+
+- Developed by : Suhani Pandey
